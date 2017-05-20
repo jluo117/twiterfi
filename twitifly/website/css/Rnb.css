@@ -1,0 +1,30 @@
+body{
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("http://www.wallpapersbyte.com/wp-content/uploads/2015/09/Mickey-Mouse-Minnie-Mouse-Love-Couple-Heart-WallpapersByte-com-1920x1080.jpg")
+}
+
+.thumbnail img {
+    width: 100%;
+	height: 200%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
