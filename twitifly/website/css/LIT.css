@@ -5,6 +5,8 @@
  */
 
 body {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-image: url("http://dm3381rcqf07k.cloudfront.net/multisite.insomniac.com/wp-content/uploads/sites/28/2016/11/EDCLV2016_0620_011907-4222_CCW.jpg");
 }
 
