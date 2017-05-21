@@ -1,1 +1,29 @@
+body{
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("http://s3.amazonaws.com/libapps/accounts/110849/images/music-010.jpg")
+}
 
+.thumbnail img {
+    width: 100%;
+	height: 200%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
